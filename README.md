@@ -10,7 +10,7 @@
 			* GNU ASsembler (No AT&T syntax)
 	* C++
 * Other
-	* Makefile
+	* Make
 	* Markdown
 	* Python3
 	* Rust
