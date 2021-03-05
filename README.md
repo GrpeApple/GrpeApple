@@ -1,3 +1,4 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/GrpeApple/GrpeApple/graphs/commit-activity)
 # Languages
 * Esolangs
 	* [Brainfrick](https://esolangs.org/wiki/Brainfuck)
