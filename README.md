@@ -7,7 +7,6 @@
 * Low-Level
 	* Assembly
 		* ARM (Advanced RISC (Reduced Instruction Set Computing) Machine)
-			* GNU ASsembler (No AT&T syntax)
 	* C++
 * Other
 	* Make
@@ -24,3 +23,15 @@
 	* HTML
 	* JavaScript (ES6)
 		* jQuery
+## Proof
+* Esolangs
+	* [Brainfrick](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Esolangs/Brainfrick/README.b)
+	* [IDK](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Esolangs/IDK/README.idk)
+* Other
+	* [Make](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Other/Make/Makefile)
+	* [Markdown](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Other/Markdown/README.md)
+* Shell
+	* [Bash](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/Bash/README.bash)
+	* [Bats](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/Bats/README.bats)
+	* [sh](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/sh/README.sh)
+	* [zsh](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/zsh/README.zsh)

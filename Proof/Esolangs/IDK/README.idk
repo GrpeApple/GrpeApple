@@ -1,0 +1,8 @@
+openC
+movLoc
+2
+extract
+movVar
+README.md is multiline and no way I am going to repeat that.
+execute
+closeC
