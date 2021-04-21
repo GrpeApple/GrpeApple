@@ -1,4 +1,3 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/GrpeApple/GrpeApple/graphs/commit-activity)
 # Languages
 * Esolangs
 	* [Brainfrick](https://esolangs.org/wiki/Brainfuck)
@@ -35,3 +34,42 @@
 	* [Bats](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/Bats/README.bats)
 	* [sh](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/sh/README.sh)
 	* [zsh](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/zsh/README.zsh)
+
+
+---
+
+<table>
+<thead>
+	<tr>
+		<th>Description</th>
+		<th>Card</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Github stats</td>
+		<td>
+			<a href="https://github.com/GrpeApple?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api?username=GrpeApple&count_private=true&show_icons=true&theme=solarized-dark&hide_border=true&cache_seconds=1800&border_radius=20&hide_title=true&include_all_commits=true">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<!-- Of course this would display Brainf*** -->
+		<td>Top languages</td>
+		<td>
+			<a href="https://github.com/GrpeApple?tab=repositories">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&langs_count=10&hide_title=true&layout=compact">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Wakatime</td>
+		<td>
+			<a href="https://github.com/GrpeApple?tab=repositories">
+				<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=@GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&hide_title=true&layout=compact">
+			</a>
+		</td>
+	</tr>
+</tbody>
+</table>
