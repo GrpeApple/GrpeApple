@@ -66,7 +66,7 @@
 	<tr>
 		<td>Wakatime</td>
 		<td>
-			<a href="https://github.com/GrpeApple?tab=repositories">
+			<a href="https://wakatime.com/@GrpeApple">
 				<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=@GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&hide_title=true&layout=compact">
 			</a>
 		</td>
