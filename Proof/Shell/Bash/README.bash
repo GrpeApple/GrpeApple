@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cat README.md
+cat "$(dirname "${0}")"/README.md
