@@ -29,6 +29,7 @@
 * Other
 	* [Make](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Other/Make/Makefile)
 	* [Markdown](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Other/Markdown/README.md)
+	* [Python3](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Other/Python3/README.py)
 * Shell
 	* [Bash](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/Bash/README.bash)
 	* [Bats](https://raw.githubusercontent.com/GrpeApple/GrpeApple/main/Proof/Shell/Bats/README.bats)
