@@ -6,14 +6,43 @@
 	.balign 0x08
 	file: .asciz "./README.md"
 
+.section .bss
+
+	.balign 0x10 // 16
+	path: .space 0x1000 // 4096; max path limit
+
 .section .text
 
 	.global _start
 	_start:
+		ldr r1, [sp, #0x04] // argument 0; program name
+		ldr r2, =path
+
+		mov r7, #0x0c // chdir syscall
+
+	_dirname:
+		ldrb r4, [r1], #0x01
+		strb r4, [r2], #0x01
+
+		cmp r4, #0x00
+		bne _dirname
+
+			_loop:
+				ldrb r4, [r2, #-0x01]!
+				strb ip, [r2]
+
+				cmp r4, #0x2f // 47; '/'
+				bne _loop
+
+	_chdir:
+		ldr r0, =path
+		swi #0x00 // execute syscall
+
+	_open:
 		mov r7, #0x05 // open syscall
 		ldr r0, =file
-		// mov r1, #0x00 // read-only flag
-		// mov r2, #0x00 // Permissions; I am not creating a file.
+		mov r1, #0x00 // read-only flag
+		mov r2, #0x00 // Permissions
 		swi #0x00 // execute syscall
 
 		mov r3, r0 // file descriptor
