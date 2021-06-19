@@ -1,3 +1,9 @@
+# Readlist
+## Reading
+- [x] `bash` manual
+- [ ] `glibc` manual
+- [ ] i686 Assembly *Instruction Set Architecture* manual
+
 # Languages
 * Esolangs
 	* [Brainfrick](https://esolangs.org/wiki/Brainfuck)
@@ -6,6 +12,7 @@
 * Low-Level
 	* Assembly
 		* ARM (Advanced RISC (Reduced Instruction Set Computing) Machine)
+	* C
 	* C++
 * Other
 	* Make
