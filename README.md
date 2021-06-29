@@ -2,7 +2,7 @@
 ## Reading
 - [x] `bash` manual
 - [ ] `glibc` manual
-- [ ] i686 Assembly *Instruction Set Architecture* manual
+- [ ] i686 *Instruction Set Architecture* manual
 
 # Languages
 * Esolangs
