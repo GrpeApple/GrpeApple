@@ -1,8 +1,23 @@
 # Readlist
 ## Reading
 - [x] `bash` manual
-- [ ] `glibc` manual
+- [ ] `zsh` manuual
+- [ ] `ksh` manual
+- [ ] `csh` manual
+- [ ] `bats-core` documentation
+- [ ] `make` manual
+- [ ] `gcc` manual
+	- [ ] `glibc` manual
+	- [ ] `binutils` manual
+		- [ ] `as` manual
+		- [ ] `ld` manual
 - [ ] i686 *Instruction Set Architecture* manual
+- [ ] RISC-V *Instruction Set Architecture* manual
+- [ ] `vim` documentation
+- [ ] `git` manual
+	- [ ] GitHub documentation
+	- [ ] GitLab documentation
+	- [ ] Bitbucket documentation
 
 # Languages
 * Esolangs
