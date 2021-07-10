@@ -1,3 +1,8 @@
+You want a [`README`](https://github.com/GrpeApple/GrpeApple/blob/main/README.md)? Fine. *Read me!*
+And if you have *impostor syndrome* reading me, then *do not!*
+
+---
+
 # Readlist
 ## Reading
 - [x] `bash` manual
