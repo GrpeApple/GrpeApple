@@ -80,8 +80,8 @@ And if you have *impostor syndrome* reading me, then *do not!*
 	<tr>
 		<td>Github stats</td>
 		<td>
-			<a href="//github.com/GrpeApple?tab=repositories">
-					<img src="//github-readme-stats.vercel.app/api?username=GrpeApple&count_private=true&show_icons=true&theme=solarized-dark&hide_border=true&cache_seconds=1800&border_radius=20&hide_title=true&include_all_commits=true">
+			<a href='//github.com/GrpeApple?tab=repositories'>
+					<img src='//github-readme-stats.vercel.app/api?username=GrpeApple&count_private=true&show_icons=true&theme=solarized-dark&hide_border=true&cache_seconds=1800&border_radius=20&hide_title=true&include_all_commits=true'>
 			</a>
 		</td>
 	</tr>
@@ -89,16 +89,16 @@ And if you have *impostor syndrome* reading me, then *do not!*
 		<!-- Of course this would display Brainf*** -->
 		<td>Top languages</td>
 		<td>
-			<a href="//github.com/GrpeApple?tab=repositories">
-				<img src="//github-readme-stats.vercel.app/api/top-langs/?username=GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&langs_count=10&hide_title=true&layout=compact">
+			<a href='//github.com/GrpeApple?tab=repositories'>
+				<img src='//github-readme-stats.vercel.app/api/top-langs/?username=GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&langs_count=10&hide_title=true&layout=compact'>
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>Wakatime</td>
 		<td>
-			<a href="//wakatime.com/@GrpeApple">
-				<img src="//github-readme-stats.vercel.app/api/wakatime/?username=@GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&hide_title=true&layout=compact">
+			<a href='//wakatime.com/@GrpeApple'>
+				<img src='//github-readme-stats.vercel.app/api/wakatime/?username=@GrpeApple&hide_border=true&theme=solarized-dark&cache_seconds=1800&border_radius=20&hide_title=true&layout=compact'>
 			</a>
 		</td>
 	</tr>
