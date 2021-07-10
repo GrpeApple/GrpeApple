@@ -90,7 +90,7 @@ And if you have *impostor syndrome* reading me, then *do not!*
 		<td>Top languages</td>
 		<td>
 			<a href='//github.com/GrpeApple?tab=repositories'>
-				<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrpeApple&title_color=69a2ff&text_color=2a2d54&icon_color=6bed80&bg_color=59,58a1e0,81f09f&hide_border=true&cache_seconds=1800&border_radius=20&langs_count=10&hide_title=true&layout=compact'>
+				<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrpeApple&title_color=69a2ff&text_color=2a2d54&icon_color=6bed80&bg_color=59,58a1e0,81f09f&hide_border=true&cache_seconds=1800&border_radius=20&langs_count=10&hide_title=true&layout=default'>
 			</a>
 		</td>
 	</tr>
