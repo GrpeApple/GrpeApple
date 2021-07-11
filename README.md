@@ -94,13 +94,5 @@ And if you have *impostor syndrome* reading me, then *do not!*
 			</a>
 		</td>
 	</tr>
-	<tr>
-		<td>Wakatime</td>
-		<td>
-			<a href='//wakatime.com/@GrpeApple'>
-				<img src='https://grpeapple-readme.vercel.app/api/wakatime/?username=@GrpeApple&title_color=69a2ff&text_color=2a2d54&icon_color=6bed80&bg_color=77,58a1e0,81f09f&hide_border=true&cache_seconds=1800&border_radius=20&hide_title=true&layout=compact'>
-			</a>
-		</td>
-	</tr>
 </tbody>
 </table>
